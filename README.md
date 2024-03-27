@@ -1,0 +1,1 @@
+This project is a clone of the popular e-commerce platform Amazon, built with purely Html and Css. It aims to replicate the core functionalities of Amazon such as browsing products, adding them to the cart, and processing orders.
